@@ -4,7 +4,7 @@ Project developed for "Intelligent Systems" course.
 
 Files:
 
-- paper.pdf: 
+- project_report.pdf: 
 	the paper about this work.
 
 - converter.ipynb: 
