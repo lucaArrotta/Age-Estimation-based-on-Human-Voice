@@ -5,7 +5,7 @@ Project developed for "Intelligent Systems" course.
 Files:
 
 - project_report.pdf: 
-	the paper about this work.
+	the report about this project.
 
 - converter.ipynb: 
 	the jupyter notebook developed
