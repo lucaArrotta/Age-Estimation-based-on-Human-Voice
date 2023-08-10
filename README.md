@@ -22,3 +22,7 @@ Project files:
 - best_model.html:
 	the html version of the jupyter notebook in which was trained the
 	machine learning model which led to the best recognition rates.
+
+
+![](assets/confusion_matrix.PNG)
+
